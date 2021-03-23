@@ -5,7 +5,7 @@ import logo from '../logo.svg'
 const Navbar = () => {
   return (
     <nav className="navbar">
-    <div class="nav-center">
+    <div className="nav-center">
       <Link to="/">
         <img src={logo} alt="cocktail db logo" className="logo">
         </img>
